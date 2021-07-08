@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #121212;
+  color: white;
+}
+
+h1 {
+  padding: 40px 0px 100px 0px;
+
+  text-align: center;
+  color: #adadad
+}
+canvas{
+  display: block;
+  width: 50vw;
+  height: 25vh;
+  margin: 0 auto;
+  border: 3px solid silver;
+  border-radius: 10px;
+}
+hr {
+  color: #adadad;
+  width:50%;
+  margin:0 auto;
+}
+p{
+  text-align: center;
+}
